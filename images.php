@@ -29,7 +29,7 @@ padding:0
 <title>なんでもリサイザー</title>
 </head>
 <body style="text-align:center">
-<h1>30分で作れる写真リサイザー</h1>
+<h1>5秒で作れる写真リサイザー</h1>
 <form action="resize.php" method="post" enctype="multipart/form-data">
 <?php foreach($hotel_name as $hotelname => $param) { ?>
   <div class="hotel" style="border:4px solid #eee; margin-bottom:20px; display:inline-block; width:45%;">
